@@ -7,11 +7,11 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #cbccae;
+    background-color: #FFF2DB;
 
 }
 .Box {
-     background-color: rgb(211, 222, 211);
+     background-color:#FFE5BF;
      padding: 20px;
      border-radius: 1rem;
      min-width: 45vh;
